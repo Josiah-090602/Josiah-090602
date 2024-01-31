@@ -1,34 +1,34 @@
-# 👨‍💻Josiah
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**`Digital swordsmith (Aspiring future Frontend Developer/UI/UX designer/Gamer)`**
+## Hi! Josiah here!
+
+- :dart: Aspiring Frontend Developer
+- :man_technologist: I’m currently learning React JS Fundamentals
+- :speech_balloon: Feel free to [**reach me out**](#connect-with-me)
+
+<hr>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px height=20px>  </picture> Github Stats
 
 <p align="left">
-  <a href="https://github.com/Josiah-090602?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Josiah-090602?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Josiah-090602?tab=stars">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Josiah-090602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+<table align="left">
+<tr>
+<td width="60%" align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Josiah-090602&theme=dark&show_icons=true&count_private=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josiah-090602&theme=dark&hide_border=false" /> 
+</td>
 
----
+<td width="40%" align="center">
+  <img width="80%"  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Josiah-090602&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+</td>
+</tr>
+</table>
 
-### 🧰 Languages and Tools
+## Feel free to contact me
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/josiah-viernes-95a899252)
+[<img src="https://img.shields.io/badge/facebook-%1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2" />](https://www.facebook.com/josiah.borjaviernes)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+](mailto:viernesjosiah6@gmail.com)
 
-#
-
-### 📊 Stats
-
-   <a href="https://github.com/Josiah-090602/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josiah-090602&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Josiah Viernes Github Stats"/>
-   </a>
-   <a href="https://github.com/Josiah-090602/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiah-090602&layout=compact&theme=gruvbox&hide_border=true"/>
-   </a>
-   <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
